@@ -1,0 +1,41 @@
+span{
+    padding-left:17px;
+}
+.gamer{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Verdana';
+    font-size: 35pt;
+    font-weight: bold;
+    color: greenyellow;
+}
+p{
+    color: red;
+    font-family: 'Trebuchet MS';
+    font-size: 14pt;
+}
+body{
+    background-image: url(./Guldan.jpg);
+    background-size: 100%;
+}
+
+#rez{
+    color: yellow;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    font-family: 'Verdana';
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid greenyellow; 
+    border-radius: 15px;
+}
+
+button:hover{
+    background-color: #ff0800;
+    border: 1px solid #ff0800; 
+}
